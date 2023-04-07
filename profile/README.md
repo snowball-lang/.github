@@ -10,7 +10,7 @@ In addition, Snowball offers a number of powerful features for working with conc
 
 Whether you're a beginner looking to learn programming or an experienced developer looking for a powerful new language to work with, we hope you'll find Snowball to be a powerful and easy-to-use tool for your coding projects.
 
-* [Snowball](https://github.com/snowball-lang/snowball) - [SnowBot](https://github.com/snowball-lang/SnowBot) - [Website](https://github.com/snowball-lang/www) - [Discord](https://discord.gg/YPgym7cwYr)
+  [Snowball](https://github.com/snowball-lang/snowball) - [SnowBot](https://github.com/snowball-lang/SnowBot) - [Website](https://github.com/snowball-lang/www) - [Discord](https://discord.gg/YPgym7cwYr)
 
 ```
 In the land of Snowball, where the code is king,
